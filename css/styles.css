@@ -1,0 +1,160 @@
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    font-size: 45px;
+    line-height: 1.5;
+    color: white;
+}
+
+#title{
+    background-color: #ff4c68;
+}
+
+.container-fluid{
+    padding: 3% 15%;
+}
+
+.body{
+    font-family: 'Montserrat', sans-serif;
+}
+/* Navbar */
+.navbar-brand{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    color: white;
+}
+.nav-link{
+    margin: 0 18px;
+    font-size: 20px;
+    color: white;
+}
+
+/* Title */
+.downloadButton{
+    margin: 5% 3% 5% 0;
+}
+
+.dogImage{
+    width: 60%;
+    transform: rotate(25deg);
+}
+
+/* Features */
+
+#feature{
+    background-color: white;
+}
+
+.feature-div{
+    padding: 7% 15%;
+    text-align: center;
+}
+
+.icon {
+    color: #ef8172;
+    margin-bottom: 25px;
+}
+
+.icon:hover{
+    color: #ff4c68;
+}
+
+h3{
+    font-family: "Montserrat";
+    width: 900;
+}
+
+.feature-text{
+    color: #8f8f8f;
+}
+
+/* Testimonials */
+
+#testimonials{
+    padding: 7% 15%;
+    text-align: center;
+    background-color: #ef8172;
+}
+
+h2{
+    font-family: "Montserrat";
+    color: white;
+    font-size: 35px;
+    font-weight: 900;
+}
+
+.testimonial-image{
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+.carousel-container{
+    padding: 7% 15%;
+}
+
+em{
+    color: white;
+}
+
+/* Press */
+
+#press {
+    text-align: center;
+    background-color: #ef8172;
+    padding-bottom: 20px;
+}
+
+.press-image{
+    width: 15%;
+    margin: 20px;
+}
+
+/* Pricing */
+
+#pricing{
+    text-align: center;
+    padding: 7% 15%;
+}
+
+h2.pricing{
+    font-family: "Montserrat";
+    color: black;
+    font-size: 35px;
+    font-weight: 900;
+}
+
+.button-pricing{
+    width: 90%;
+}
+
+.card-pricing{
+    margin: 30px 10px;
+}
+
+/* Cta */
+
+#cta{
+    background-color: #ff4c68;
+    font-family: Monserrat Bold;
+    text-align: center;
+    padding: 7% 15%;
+    color: white;
+}
+
+h3.cta{
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    font-size: 35px;
+    font-weight: 900;
+}
+
+#footer{
+    text-align: center;
+    padding: 7% 15%;
+}
+
+.rrss{
+   margin: 15px; 
+}
